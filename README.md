@@ -22,18 +22,14 @@ tosinmanuel0@gmail.com.
 | :---: |  
 
 
-[![Peace Sandy's github stats](https://github-readme-stats.vercel.app/api?username=Peacesandy)](https://github.com/Peacesandy)
 
-
-    
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peacesandy&theme=radical&hide_border=true"/>
 
     
 
     
     
  #  👀 Profile views
-![Visitor Count](https://profile-counter.glitch.me/{Peacesandy}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{sleek1004}/count.svg) 
 
 
 
