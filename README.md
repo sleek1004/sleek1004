@@ -1,13 +1,13 @@
  Frontend Developer 👨🏽‍💻
- 
--  🌱  I’m currently learning javaScript, react and Phython
+
+- 👀 I'm interested in proffering solutions to problems using technology.
+
+-  🌱  I’m currently learning javaScript, React and Python
 
 - 👯 I’m looking to collaborate on open source projects,internships and entry-level opportunities.
 
 - 📫 How to reach me
 tosinmanuel0@gmail.com.
-
-- 😄 Pronouns: He/Him
 
 - Job interests: Software Engineer, Frontend Engineer(intern or Junior level)
 
@@ -18,14 +18,6 @@ tosinmanuel0@gmail.com.
 
 
  
-  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleek1004&theme=city_lights) |
-| :---: |  
-
-
-
-
-    
-
     
     
  #  👀 Profile views
