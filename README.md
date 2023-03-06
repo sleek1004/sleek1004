@@ -4,7 +4,7 @@
 
 -  🌱  I’m currently learning javaScript, React and Python
 
-- 👯 I’m looking to collaborate on open source projects,internships and entry-level opportunities.
+- 🧠 I’m looking to collaborate on interesting projects using JS,React and python
 
 - 📫 How to reach me
 tosinmanuel0@gmail.com.
